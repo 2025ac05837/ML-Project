@@ -161,4 +161,4 @@ with tab2:
     st.pyplot(fig2)
 
 st.markdown("---")
-st.caption("BITS Pilani WILP — M.Tech — Machine Learning Assignment 2")
+st.caption("BITS Pilani WILP — M.Tech — Machine Learning Assignment 2 By:2025ac05837")
