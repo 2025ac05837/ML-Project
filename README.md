@@ -25,9 +25,9 @@ standard classification metrics.
 - **Preprocessing:** 80/20 stratified train-test split; features standardized
   with `StandardScaler` (fit on train only, applied to both splits).
 
-## c. GitHub Repository Link: https://github.com/2025ac05837/ML-Project/blob/main/app.py
+## c. GitHub Repository Link: 
 
-`<< paste your GitHub repo URL here after you push the code >>`
+`[<< paste your GitHub repo URL here after you push the code >>](https://github.com/2025ac05837/ML-Project/blob/main/app.py)`
 
 ## d. Models Used
 
